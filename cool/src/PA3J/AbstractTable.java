@@ -137,8 +137,7 @@ import java.util.Enumeration;
 	 * @param i the integer to add
 	 * @return the symbol for the integer i
 	 * */
-	public AbstractSymbol(out, n + 2, name);
-		dump_type(ouAbstractSymbol addInt(int i) {
+	public AbstractSymbol addInt(int i) {
 		return addString(Integer.toString(i), MAXSIZE);
 	}
 
